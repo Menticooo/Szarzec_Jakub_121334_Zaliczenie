@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Milionerzy\Milionerzy\bin\Debug\net6.0\Milionerzy.exe
+C:\Users\Lenovo\Desktop\Milionerzy\Milionerzy\bin\Debug\net6.0\Milionerzy.deps.json
+C:\Users\Lenovo\Desktop\Milionerzy\Milionerzy\bin\Debug\net6.0\Milionerzy.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Milionerzy\Milionerzy\bin\Debug\net6.0\Milionerzy.dll
+C:\Users\Lenovo\Desktop\Milionerzy\Milionerzy\bin\Debug\net6.0\Milionerzy.pdb
+C:\Users\Lenovo\Desktop\Milionerzy\Milionerzy\obj\Debug\net6.0\Milionerzy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Milionerzy\Milionerzy\obj\Debug\net6.0\Milionerzy.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Milionerzy\Milionerzy\obj\Debug\net6.0\Milionerzy.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Milionerzy\Milionerzy\obj\Debug\net6.0\Milionerzy.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Milionerzy\Milionerzy\obj\Debug\net6.0\Milionerzy.dll
+C:\Users\Lenovo\Desktop\Milionerzy\Milionerzy\obj\Debug\net6.0\refint\Milionerzy.dll
+C:\Users\Lenovo\Desktop\Milionerzy\Milionerzy\obj\Debug\net6.0\Milionerzy.pdb
+C:\Users\Lenovo\Desktop\Milionerzy\Milionerzy\obj\Debug\net6.0\Milionerzy.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Milionerzy\Milionerzy\obj\Debug\net6.0\ref\Milionerzy.dll
