@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Cefz4Jct9ueVvSotZHVO+fEVme+37VSo5m/iMRhbHRiWHSbEEMhqaZFBvQ1tVTlS1VwpzwL93DlawuB/JxARww==",
+  "dgSpecHash": "lYmn8yf3ek+s/NE1Dt0EJnYJlLNnEuFothUjNAkD3LKBen5TzVEnZzgahpedUcB8QyV9JkJUnUFDZ4iaUIgLog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Milionerzy\\Milionerzy\\Milionerzy.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Stachu Jones\\Documents\\GitHub\\Szarzec_Jakub_121334_Zaliczenie\\Milionerzy\\Milionerzy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stachu Jones\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Stachu Jones\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Stachu Jones\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Stachu Jones\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Milionerzy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e5142d9fe78f62443efa81d975ae3686339bbe6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Milionerzy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Milionerzy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
